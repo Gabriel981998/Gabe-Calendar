@@ -91,6 +91,10 @@ html{
     color: rgb(236, 168, 21);
     transform: scale(1.4);
 }
+.gabe:hover{
+    transform:scale(1.9) ;
+    transition: 1s;
+}
 
 .days{
    
